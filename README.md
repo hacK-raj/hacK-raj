@@ -91,14 +91,6 @@ $ cat about.json
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hack-raj&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -106,32 +98,6 @@ $ cat about.json
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hacK-raj/Student-registration">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hack-raj&repo=Student-registration&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9b59f7&icon_color=9b59f7"/>
-</a>
-<a href="https://github.com/hacK-raj/Simple-Time-table-project">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hack-raj&repo=Simple-Time-table-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9b59f7&icon_color=9b59f7"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hacK-raj/hacK-raj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 *To enable the snake animation, add a [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo.*
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
